@@ -20,7 +20,7 @@ If you're learning NLP, revising concepts, or building projects — this repo is
 ## 📁 Repository Structure
 
 
-
+```
 NLP-Tutorials/
 │
 ├── Pre-processing/
@@ -33,7 +33,7 @@ NLP-Tutorials/
 │       - Basic NLP transformations
 │
 └── .DS_Store   (ignore this — macOS being dramatic 😅)
-
+```
 
 
 ---
