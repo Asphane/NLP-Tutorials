@@ -1,4 +1,4 @@
-```markdown
+
 # 🌟 NLP Tutorials — Fun, Simple & Beginner-Friendly 🚀
 
 Welcome to **NLP Tutorials**, a clean and practical collection of **Jupyter notebooks** designed to make NLP easy, visual, and super fun to learn.  
@@ -19,7 +19,7 @@ If you're learning NLP, revising concepts, or building projects — this repo is
 
 ## 📁 Repository Structure
 
-```
+
 
 NLP-Tutorials/
 │
