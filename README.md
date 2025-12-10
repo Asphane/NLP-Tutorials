@@ -99,6 +99,3 @@ If this repo helps you, please consider **starring** ⭐ it!
 It motivates updates and helps others discover it.
 
 Happy experimenting with NLP! ✨
-
-```
-```
