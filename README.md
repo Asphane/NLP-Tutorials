@@ -8,10 +8,10 @@ Everything here is hands-on, beginner-friendly, and meant to help you build stro
 
 ## 📘 What This Repo Gives You
 
- 🔹 Super beginner-friendly NLP notebooks  
- 🔹 Step-by-step demonstrations of preprocessing  
- 🔹 Clean examples you can modify and play with  
- 🔹 A perfect starting point for your NLP journey  
+ - Super beginner-friendly NLP notebooks  
+ - Step-by-step demonstrations of preprocessing  
+ - Clean examples you can modify and play with  
+ - A perfect starting point for your NLP journey  
 
 If you're learning NLP, revising concepts, or building projects — this repo is your mini-lab. 🧪
 
